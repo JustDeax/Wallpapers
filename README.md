@@ -61,6 +61,14 @@ My wallpaper gallery, I don't know what else to say
   </tr>
   <tr>
     <td width="50%" align="center">
+      <img src="nothing_pc_1.png" alt="nothing_pc_1.png" style="max-width:100%; height:auto;">
+    </td>
+    <td width="50%" align="center">
+      <img src="nothing_pc_2.png" alt="nothing_pc_2.png" style="max-width:100%; height:auto;">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
       <img src="orange_forest_morning_sky.jpg" alt="orange_forest_morning_sky.jpg" style="max-width:100%; height:auto;">
     </td>
     <td width="50%" align="center">
